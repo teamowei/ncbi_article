@@ -1,0 +1,90 @@
+25528061
+ 2014 Dec 21
+BMC medical genetics.
+2
+
+24728607
+ 2014 May
+Molecular biology reports.
+2
+
+26950853
+ 2016 Mar 7
+PloS one.
+9
+
+26950853
+ 2016 Mar 7
+PloS one.
+9
+
+26789557
+ 2016 Feb
+Atherosclerosis.
+7
+
+23587283
+ 2013 Jun
+Atherosclerosis.
+10
+
+23729007
+ 2013 Aug
+Circulation. Cardiovascular genetics.
+5
+
+24930384
+ 2014
+Journal of atherosclerosis and thrombosis.
+1
+
+20738937
+ 2010 Aug
+Revista espanola de cardiologia.
+7
+
+17554300
+ 2007 Jun 7
+Nature.
+1 systematic review</span></h3></div><a name="Shutter" sid="1" href="#" class="portlet_shutter ui-ncbitoggler-open" title="Show/hide content" remembercollapsed="true" pgsec_name="pmcipmh" id="Shutter" toggles="ui-portlet_content-2" role="button" aria-expanded="true" style="position: absolute; padding: 0px;"></a></div><div class="ui-helper-reset" aria-live="assertive"><div class="portlet_content ui-ncbitoggler ui-ncbitoggler-slave-open" id="ui-portlet_content-2" aria-hidden="false"><ul><li class="brieflinkpopper two_line"><a class="brieflinkpopperctrl" href="/pubmed/23569189" ref="ordinalpos=1&amp;linkpos=1&amp;log$=PM_Cited_PMH_SR_title&amp;discoid=PM_Cited_PMH_SR&amp;type=review&amp;logdbfrom=pubmed&amp;ncbi_uid=17554300&amp;link_uid=23569189" role="button" aria-expanded="false" aria-haspopup="true"><span xmlns:np="http://ncbi.gov/portal/XSLT/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" class="invert">Review</span> Apolipoprotein E genotype, cardiovascular biomarkers and risk of stroke: systematic review and meta-analysis of 14,015 stroke cases and pooled analysis of primary biomarker data from up to 60,883 individuals.</a><span class="source">[Int J Epidemiol. 2013]</span><div class="brieflinkpop ui-helper-reset ui-ncbipopper-wrapper ui-ncbipopper-basic" id="ui-brieflinkpop-3" aria-live="assertive" aria-hidden="true" style="top: -100px; left: -100px; display: none;"><span xmlns:np="http://ncbi.gov/portal/XSLT/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" class="invert">Review</span> Apolipoprotein E genotype, cardiovascular biomarkers and risk of stroke: systematic review and meta-analysis of 14,015 stroke cases and pooled analysis of primary biomarker data from up to 60,883 individuals.<div class="brieflinkpopdesc"><em xmlns:np="http://ncbi.gov/portal/XSLT/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" class="author">Khan TA, Shah T, Prieto D, Zhang W, Price J, Fowkes GR, Cooper J, Talmud PJ, Humphries SE, Sundstrom J, et al. </em><em xmlns:np="http://ncbi.gov/portal/XSLT/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" class="cit">Int J Epidemiol. 2013 Apr; 42(2):475-92. </em></div></div></li></ul></div></div></div><div class="portlet"><div class="portlet_head"><div class="portlet_title"><h3><span>Similar articles</span></h3></div><a name="Shutter" sid="1" href="#" class="portlet_shutter ui-ncbitoggler-open" title="Show/hide content" remembercollapsed="true" pgsec_name="pmdiscora" id="Shutter" toggles="ui-portlet_content-4" role="button" aria-expanded="true" style="position: absolute; padding: 0px;"></a></div><div class="ui-helper-reset" aria-live="assertive"><div class="portlet_content ui-ncbitoggler ui-ncbitoggler-slave-open" id="ui-portlet_content-4" aria-hidden="false"><ul><li class="brieflinkpopper two_line"><a class="brieflinkpopperctrl" href="/pubmed/17554292" ref="ordinalpos=1&amp;linkpos=1&amp;log$=relatedarticles&amp;logdbfrom=pubmed&amp;ncbi_uid=17554300&amp;link_uid=17554292" role="button" aria-expanded="false" aria-haspopup="true">Genomics: guilt by association.</a><span class="source">[Nature. 2007]</span><div class="brieflinkpop ui-helper-reset ui-ncbipopper-wrapper ui-ncbipopper-basic" id="ui-brieflinkpop-5" aria-live="assertive" aria-hidden="true" style="top: -100px; left: -100px; display: none;">Genomics: guilt by association.<div class="brieflinkpopdesc"><em xmlns:np="http://ncbi.gov/portal/XSLT/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" class="author">Bowcock AM. </em><em xmlns:np="http://ncbi.gov/portal/XSLT/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" class="cit">Nature. 2007 Jun 7; 447(7145):645-6. </em></div></div></li><li class="brieflinkpopper two_line"><a class="brieflinkpopperctrl" href="/pubmed/27428252" ref="ordinalpos=1&amp;linkpos=2&amp;log$=relatedarticles&amp;logdbfrom=pubmed&amp;ncbi_uid=17554300&amp;link_uid=27428252" role="button" aria-expanded="false" aria-haspopup="true">Consensus Genome-Wide Expression Quantitative Trait Loci and Their Relationship with Human Complex Trait Disease.</a><span class="source">[OMICS. 2016]</span><div class="brieflinkpop ui-helper-reset ui-ncbipopper-wrapper ui-ncbipopper-basic" id="ui-brieflinkpop-6" aria-live="assertive" aria-hidden="true" style="top: -100px; left: -100px; display: none;">Consensus Genome-Wide Expression Quantitative Trait Loci and Their Relationship with Human Complex Trait Disease.<div class="brieflinkpopdesc"><em xmlns:np="http://ncbi.gov/portal/XSLT/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" class="author">Yu CH, Pal LR, Moult J. </em><em xmlns:np="http://ncbi.gov/portal/XSLT/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" class="cit">OMICS. 2016 Jul; 20(7):400-14. </em></div></div></li><li class="brieflinkpopper two_line"><a class="brieflinkpopperctrl" href="/pubmed/20549515" ref="ordinalpos=1&amp;linkpos=3&amp;log$=relatedarticles&amp;logdbfrom=pubmed&amp;ncbi_uid=17554300&amp;link_uid=20549515" role="button" aria-expanded="false" aria-haspopup="true">Genome-wide searching of rare genetic variants in WTCCC data.</a><span class="source">[Hum Genet. 2010]</span><div class="brieflinkpop ui-helper-reset ui-ncbipopper-wrapper ui-ncbipopper-basic" id="ui-brieflinkpop-7" aria-live="assertive" aria-hidden="true" style="top: -100px; left: -100px; display: none;">Genome-wide searching of rare genetic variants in WTCCC data.<div class="brieflinkpopdesc"><em xmlns:np="http://ncbi.gov/portal/XSLT/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" class="author">Feng T, Zhu X. </em><em xmlns:np="http://ncbi.gov/portal/XSLT/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" class="cit">Hum Genet. 2010 Sep; 128(3):269-80. Epub 2010 Jun 13.</em></div></div></li><li class="brieflinkpopper two_line"><a class="brieflinkpopperctrl" href="/pubmed/21300624" ref="ordinalpos=1&amp;linkpos=4&amp;log$=relatedreviews&amp;logdbfrom=pubmed&amp;ncbi_uid=17554300&amp;link_uid=21300624" role="button" aria-expanded="false" aria-haspopup="true"><span xmlns:np="http://ncbi.gov/portal/XSLT/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" class="invert">Review</span> New IBD genetics: common pathways with other diseases.</a><span class="source">[Gut. 2011]</span><div class="brieflinkpop ui-helper-reset ui-ncbipopper-wrapper ui-ncbipopper-basic" id="ui-brieflinkpop-8" aria-live="assertive" aria-hidden="true" style="top: -100px; left: -100px; display: none;"><span xmlns:np="http://ncbi.gov/portal/XSLT/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" class="invert">Review</span> New IBD genetics: common pathways with other diseases.<div class="brieflinkpopdesc"><em xmlns:np="http://ncbi.gov/portal/XSLT/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" class="author">Lees CW, Barrett JC, Parkes M, Satsangi J. </em><em xmlns:np="http://ncbi.gov/portal/XSLT/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" class="cit">Gut. 2011 Dec; 60(12):1739-53. Epub 2011 Feb 7.</em></div></div></li><li class="brieflinkpopper two_line"><a class="brieflinkpopperctrl" href="/pubmed/17712840" ref="ordinalpos=1&amp;linkpos=5&amp;log$=relatedreviews&amp;logdbfrom=pubmed&amp;ncbi_uid=17554300&amp;link_uid=17712840" role="button" aria-expanded="false" aria-haspopup="true"><span xmlns:np="http://ncbi.gov/portal/XSLT/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" class="invert">Review</span> Genome-wide association scans identify multiple confirmed susceptibility loci for Crohn's disease: lessons for study design.</a><span class="source">[Inflamm Bowel Dis. 2007]</span><div class="brieflinkpop ui-helper-reset ui-ncbipopper-wrapper ui-ncbipopper-basic" id="ui-brieflinkpop-9" aria-live="assertive" aria-hidden="true" style="top: -100px; left: -100px; display: none;"><span xmlns:np="http://ncbi.gov/portal/XSLT/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" class="invert">Review</span> Genome-wide association scans identify multiple confirmed susceptibility loci for Crohn's disease: lessons for study design.<div class="brieflinkpopdesc"><em xmlns:np="http://ncbi.gov/portal/XSLT/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" class="author">Tremelling M, Parkes M. </em><em xmlns:np="http://ncbi.gov/portal/XSLT/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" class="cit">Inflamm Bowel Dis. 2007 Dec; 13(12):1554-60. </em></div></div></li></ul><a class="seemore" href="/pubmed?linkname=pubmed_pubmed_reviews&amp;from_uid=17554300" ref="ordinalpos=1&amp;log$=relatedreviews_seeall&amp;logdbfrom=pubmed&amp;ncbi_uid=17554300">See reviews...</a><a class="seemore" href="/pubmed?linkname=pubmed_pubmed&amp;from_uid=17554300" ref="ordinalpos=1&amp;log$=relatedarticles_seeall&amp;logdbfrom=pubmed&amp;ncbi_uid=17554300">See all...</a></div></div></div><div class="portlet"><div class="portlet_head"><div class="portlet_title"><h3><span>Cited by over 100
+
+23086272
+ 2013 Jan
+Molecular biology reports.
+4
+
+19955471
+ 2010 Jan 1
+American journal of epidemiology.
+11
+
+24163049
+ 2014 Apr
+Age (Dordrecht, Netherlands).
+3
+
+24069144
+ 2013 Sep 12
+PloS one.
+4
+
+21804106
+ 2012 Feb
+European heart journal.
+21
+
+17634449
+ 2007 Aug 2
+The New England journal of medicine.
+over 100
+
+21658281
+ 2011 Jun 10
+BMC cardiovascular disorders.
+19
+
+20941391
+ 2010 Sep 30
+PLoS genetics.
+19
+
