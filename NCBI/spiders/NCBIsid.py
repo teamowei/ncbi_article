@@ -38,7 +38,7 @@ class NcbisidSpider(scrapy.Spider):
 
         item=NcbiItem()
 
-        item['journal_name']=Info1.xpath('./div[@class="cit"]/a/@title').extract()[0]
+        item['journal_name']=Info1.xpath('./div[@class="cit"]/a/@title').extract()[0][:-1]
         item['journal_time'] =Info1.xpath('./div[@class="cit"]/text()').extract()[0].split(';')[0]
         item['sid']=Info1.xpath('./div[@class="aux"]/div[@class="resc"]/dl/dd/text()').extract()[0]
         item['cited_times']=0

@@ -5,7 +5,7 @@
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 from openpyxl import Workbook,load_workbook
-
+import os
 
 class NcbiPipeline(object):
     def open_spider(self,spider):
@@ -21,5 +21,7 @@ class NcbiPipeline(object):
         return item
 
     def close_spider(self, spider):
+        save_file=os.getcwd()+"\\result.xlsx"
         print('done')
-        self.wb.save('C:\\Users\\Wei\\NCBI\\a.xlsx')
+        #self.wb.save('C:\\Users\\Wei\\NCBI\\a.xlsx')
+        self.wb.save(save_file)
