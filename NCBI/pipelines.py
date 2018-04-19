@@ -23,5 +23,5 @@ class NcbiPipeline(object):
     def close_spider(self, spider):
         save_file=os.getcwd()+"\\result.xlsx"
         print('done')
-        #self.wb.save('C:\\Users\\Wei\\NCBI\\a.xlsx')
+
         self.wb.save(save_file)
