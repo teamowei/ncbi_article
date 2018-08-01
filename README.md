@@ -3,6 +3,6 @@ This Project is about using Scrapy and PhantomJS to spider the informations at N
 
 1.Before Using it, you should install Scrapy and PhantomJS
 
-2.Putting your pmid into "pmid.xlsx"
+2.Put your pmid into "pmid.xlsx"
 
-3.Using cmdline "python -m scrapy crawl NCBIsid"
+3.Use cmdline "python -m scrapy crawl NCBIsid"
